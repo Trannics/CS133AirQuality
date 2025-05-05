@@ -1,6 +1,6 @@
 # CS 133 - Air Quality - Term Project  
 ## Overview  
-For our CS 133 Term Project, we performed data analysis and machine learning methods on an air quality related dataset by @FEDESORIANO on Kaggle. (https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set)
+For our CS 133 Term Project, we performed data analysis and machine learning methods on an air quality-related dataset by @FEDESORIANO on Kaggle. (https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set)
 ## Project Members
 Eric Tran and Thang Nguyen  
 ## Included Files in this Repository
@@ -19,4 +19,4 @@ Eric Tran and Thang Nguyen
     * You can find the dataset using the following link:
         * https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set
 6. The program will complete data cleaning, data analysis, machine learning training, and evaluation processes.
-    * Context has been provided below each code block, explaing how each output connects with the asked question.
+    * Context has been provided below each code block, explaining how each output connects with the asked question.
